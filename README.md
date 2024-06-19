@@ -1,2 +1,2 @@
 # Hydra-MDP
-The official repository of Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation
+This repository is moved to [Hydra-MDP](https://github.com/NVlabs/Hydra-MDP).
